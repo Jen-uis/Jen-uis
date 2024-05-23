@@ -40,6 +40,7 @@ If you wish to collaborate on a new project, feel free to reach out to me at [co
 | --- | --- | --- |
 
 ## Tools
-1. 
+| R Studio | Jupyter Notebook | Tableau | Microsoft Offices | Power BI |
+| --- | --- | --- | --- | --- |
 
 ## Thank you for viewing my Profile & Repositories
