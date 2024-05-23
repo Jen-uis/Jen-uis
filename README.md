@@ -1,3 +1,4 @@
+# Welcome! ~~~
 - 👋 Hi I am Nathaniel, a passionate BA/BS/CS learner, also accounting instructor
 - 👀 I’m a current MS in Business Analytics student
 - 🌱 I’m learning data science tech
