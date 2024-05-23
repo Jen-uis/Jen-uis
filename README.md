@@ -5,7 +5,7 @@
 - 📫 Feel free to reach out if you want to collab on anything!
 
 This repository consist of all the projects I have worked with. Below is the link to each projects:
-### Current Project(s) (actively updating)
+### Current Project(s) (Actively Updating)
 - [Customer Segmentation Analysis](#Customer-Segmentation-Analysis)
     - `Python 3.12`
     - Descriptive Analysis
