@@ -36,11 +36,20 @@ This repository consist of all the projects I have worked with. Below is the lin
 If you wish to collaborate on a new project, feel free to reach out to me at [connectnathaniel@gmail.com](connectnathaniel@gmail.com)
 
 ## Languages
-| `Python` | `R Markdown` | `Julia` |
-| --- | --- | --- |
+1. `Python 3.12` (Feature packages: numpy / scikit-learn and etc.)
+2. `R Markdown` (Feature packages: tidyverse / caret / pROC / ggplot 2 / randomForest and etc.)
+3. `Julia` (Feature packages: ShapeFile / FreqTables / Plots/StatsPlots/Statistics / MLJ-related packages and etc.)
+4. `MySQL`
+5. `HTML` / `CSS`
+6. `Xcode`
 
 ## Tools
-| R Studio | Jupyter Notebook | Tableau | Microsoft Offices | Power BI |
-| --- | --- | --- | --- | --- |
+1. R Studio
+2. Jupyter Notebook
+3. GitHub
+4. Tableau
+5. PowerBI
+6. Microsoft Offices (expert in Excel math / stat / vis and etc. tools)
+7. Actively Learning SAS
 
 ## Thank you for viewing my Profile & Repositories
