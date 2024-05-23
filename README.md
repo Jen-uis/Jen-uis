@@ -36,7 +36,7 @@ This repository consist of all the projects I have worked with. Below is the lin
 If you wish to collaborate on a new project, feel free to reach out to me at [connectnathaniel@gmail.com](connectnathaniel@gmail.com)
 
 ## Languages
-| Python | R Markdown | Julia |
+| `Python` | `R Markdown` | `Julia` |
 | --- | --- | --- |
 
 ## Tools
