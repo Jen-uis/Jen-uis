@@ -5,7 +5,7 @@
 - 📫 Feel free to reach out if you want to collab on anything!
 
 This repository consist of all the projects I have worked with. Below is the link to each projects:
-### Current Project(s) (actively updated)
+### Current Project(s) (actively updating)
 - [Customer Segmentation Analysis](#Customer-Segmentation-Analysis)
     - `Python 3.12`
     - Descriptive Analysis
@@ -13,7 +13,7 @@ This repository consist of all the projects I have worked with. Below is the lin
     - ~Written Report~ (TBA)
     - ~Presentation Slides~ (TBA)
 
-### Past Projects (finished updating)
+### Past Projects (Update Finished)
 - [LA Crime Data Analysis](#LA-Crime-Data-Analysis)
     - `R Studio` Markdown
     - Descriptive Analysis / Time Trend Analysis
