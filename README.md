@@ -37,9 +37,7 @@ If you wish to collaborate on a new project, feel free to reach out to me at [co
 
 ## Languages
 | Python | R Markdown | Julia |
-1. `Python`
-2. `R Markdown`
-3. `Julia`
+| --- | --- | --- |
 
 ## Tools
 1. 
