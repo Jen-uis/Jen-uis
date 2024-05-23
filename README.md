@@ -7,7 +7,7 @@
 
 This repository consist of all the projects I have worked with. Below is the link to each projects:
 ### Current Project(s) (Actively Updating)
-- [Customer Segmentation Analysis](#Customer-Segmentation-Analysis)
+- [Customer Segmentation Analysis](https://github.com/Jen-uis/Customer-Segmentation-Analysis)
     - `Python 3.12`
     - Descriptive Analysis
     - Data Modeling Selection, Predictive Modeling (i.e. Random Forest/GradientBoost/LinearRegression)
@@ -15,25 +15,25 @@ This repository consist of all the projects I have worked with. Below is the lin
     - ~Presentation Slides~ (TBA)
 
 ### Past Projects (Update Finished)
-- [LA Crime Data Analysis](#LA-Crime-Data-Analysis)
+- [LA Crime Data Analysis](https://github.com/Jen-uis/LA-Crime-Data-Analysis)
     - `R Studio` Markdown
     - Descriptive Analysis / Time Trend Analysis
     - Predictive Model: Logistic Regression / k-NN
     - Written Report
     - Written Presentation Slides
-- [Loan Status Prediction](#Loan-Status-Prediction)
+- [Loan Status Prediction](https://github.com/Jen-uis/Loan-Status-Prediction)
     - `Julia` Jupyter Notebook
     - Descriptive Analysis
     - Predictive Modeling / Accuracy Score Report
     - Written Report
-- [Cardiovascular Disease Dataset](#Cardiovascular-Disease-Dataset)
+- [Cardiovascular Disease Dataset](https://github.com/Jen-uis/Cardiovascular-Disease-Dataset)
     - `R Studio` Markdown
     - Descriptive Analysis
     - Predictive Models
     - Written Report
  
 ## Collaboration
-If you wish to collaborate on a new project, feel free to reach out to me at [connectnathaniel@gmail.com](connectnathaniel@gmail.com)
+If you wish to collaborate on a new project, feel free to reach out to me at [connectnathaniel@gmail.com]
 
 ## Languages
 1. `Python 3.12` (Feature packages: numpy / scikit-learn and etc.)
