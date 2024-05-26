@@ -5,7 +5,7 @@
 - 💞️ I want to learn more about coding!
 - 📫 Feel free to reach out if you want to collab on anything!
 
-This repository consist of all the projects I have worked with. Below is the link to each projects:
+This repository consist of all the business/data analysis projects I have worked with. Below is the link to each projects:
 ### Current Project(s) (Actively Updating)
 - [Customer Segmentation Analysis](https://github.com/Jen-uis/Customer-Segmentation-Analysis)
     - `Python 3.12`
