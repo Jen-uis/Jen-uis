@@ -13,7 +13,7 @@
     - `Python 3.12`
     - Descriptive Analysis
     - Data Modeling Selection, Predictive Modeling (i.e. Random Forest/GradientBoost/LinearRegression)
-    - ~Written Report~ (TBA)
+    - ~Written Report~ (In Progress)
     - ~Presentation Slides~ (TBA)
 
 ### Past Projects (Update Finished)
