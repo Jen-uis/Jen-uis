@@ -5,8 +5,7 @@
 - 💞️ I want to learn more about coding!
 - 📫 Feel free to reach out if you want to collab on anything!
 
-### Profile Views
-![](https://komarev.com/ghpvc/?username=Jen-uis)
+![Profile Views](https://komarev.com/ghpvc/?username=Jen-uis)
 
 ## This repository consist of all the business/data analysis projects I have worked with. Below is the link to each projects:
 ### Current Project(s) (Actively Updating)
@@ -33,7 +32,7 @@
     - `R Studio` Markdown
     - Descriptive Analysis
     - Predictive Models
-    - Written Report
+    - Written Report\
  
 ## Collaboration
 If you wish to collaborate on a new project, feel free to reach out to me at [connectnathaniel@gmail.com]
