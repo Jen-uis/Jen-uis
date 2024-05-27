@@ -5,7 +5,7 @@
 - 💞️ I want to learn more about coding!
 - 📫 Feel free to reach out if you want to collab on anything!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jen-uis)
+![](https://komarev.com/ghpvc/?username=Jen-uis&style=Plastic&label=PROFILE+VIEWS&base=126)
 
 ## This repository consist of all the business/data analysis projects I have worked with. Below is the link to each projects:
 ### Current Project(s) (Actively Updating)
