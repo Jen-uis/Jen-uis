@@ -13,8 +13,8 @@
     - `Python 3.12`
     - Descriptive Analysis
     - Data Modeling Selection, Predictive Modeling (i.e. Random Forest/GradientBoost/LinearRegression)
-    - ~Written Report~ (In Progress)
-    - ~Presentation Slides~ (TBA)
+    - Written Report
+    - ~Presentation Slides~ (In Progress)
 
 ### Past Projects (Update Finished)
 - [LA Crime Data Analysis](https://github.com/Jen-uis/LA-Crime-Data-Analysis)
