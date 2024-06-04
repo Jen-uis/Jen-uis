@@ -8,15 +8,13 @@
 ![](https://komarev.com/ghpvc/?username=Jen-uis&style=Plastic&label=PROFILE+VIEWS&base=126)
 
 ## This repository consist of all the business/data analysis projects I have worked with. Below is the link to each projects:
-### Current Project(s) (Actively Updating)
+### Past Projects (Update Finished)
 - [Customer Segmentation Analysis](https://github.com/Jen-uis/Customer-Segmentation-Analysis)
     - `Python 3.12`
     - Descriptive Analysis
     - Data Modeling Selection, Predictive Modeling (i.e. Random Forest/GradientBoost/LinearRegression)
     - Written Report
     - Presentation Slides
-
-### Past Projects (Update Finished)
 - [LA Crime Data Analysis](https://github.com/Jen-uis/LA-Crime-Data-Analysis)
     - `R Studio` Markdown
     - Descriptive Analysis / Time Trend Analysis
