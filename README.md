@@ -45,7 +45,7 @@ If you wish to collaborate on a new project, feel free to reach out to me at [co
 
 ## Tools
 1. R Studio
-2. Jupyter Notebook
+2. VS Code / Jupyter Notebook / Markdown
 3. GitHub
 4. Tableau
 5. PowerBI
