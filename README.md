@@ -14,7 +14,7 @@
     - Descriptive Analysis
     - Data Modeling Selection, Predictive Modeling (i.e. Random Forest/GradientBoost/LinearRegression)
     - Written Report
-    - ~Presentation Slides~ (In Progress)
+    - Presentation Slides
 
 ### Past Projects (Update Finished)
 - [LA Crime Data Analysis](https://github.com/Jen-uis/LA-Crime-Data-Analysis)
@@ -32,7 +32,7 @@
     - `R Studio` Markdown
     - Descriptive Analysis
     - Predictive Models
-    - Written Report\
+    - Written Report
  
 ## Collaboration
 If you wish to collaborate on a new project, feel free to reach out to me at [connectnathaniel@gmail.com]
