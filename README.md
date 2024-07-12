@@ -8,6 +8,14 @@
 ![](https://komarev.com/ghpvc/?username=Jen-uis&style=Plastic&label=PROFILE+VIEWS&base=126)
 
 ## This repository consist of all the business/data analysis projects I have worked with. Below is the link to each projects:
+
+### On-going Project
+- [Preprocessing Financial Data Analytics](https://github.com/Jen-uis/Preprocessing-Financial-Data)
+    - `Python 3.12`
+    - Data Preprocessing
+    - Data Analytics
+    - ~TBD~
+
 ### Past Projects (Update Finished)
 - [Customer Segmentation Analysis](https://github.com/Jen-uis/Customer-Segmentation-Analysis)
     - `Python 3.12`
