@@ -13,8 +13,8 @@
 - [Preprocessing Financial Data Analytics](https://github.com/Jen-uis/Preprocessing-Financial-Data)
     - `Python 3.12`
     - Data Preprocessing
-    - Data Analytics
-    - ~TBD~
+    - Data Analytics on the Financial Data
+    - Currently On-going: Planning to Release full version by the beginning of March
 
 ### Past Projects (Update Finished)
 - [Customer Segmentation Analysis](https://github.com/Jen-uis/Customer-Segmentation-Analysis)
