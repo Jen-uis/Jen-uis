@@ -14,7 +14,7 @@
     - `Python 3.12`
     - Data Preprocessing
     - Data Analytics on the Financial Data
-    - Currently On-going: Planning to Release full version by the beginning of March
+    - Currently On-going: Planning to Release full version soon
 
 ### Past Projects (Update Finished)
 - [Customer Segmentation Analysis](https://github.com/Jen-uis/Customer-Segmentation-Analysis)
