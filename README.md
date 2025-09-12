@@ -44,7 +44,7 @@
 If you wish to collaborate on a new project, feel free to reach out to me at [connectnathaniel@gmail.com]
 
 ## Languages
-1. `Python 3.12` (Feature packages: numpy / scikit-learn and etc.)
+1. `Python 3.13` (Feature packages: numpy / scikit-learn and etc.)
 2. `R Markdown` (Feature packages: tidyverse / caret / pROC / ggplot 2 / randomForest and etc.)
 3. `Julia` (Feature packages: ShapeFile / FreqTables / Plots/StatsPlots/Statistics / MLJ-related packages and etc.)
 4. `MySQL`
@@ -52,12 +52,13 @@ If you wish to collaborate on a new project, feel free to reach out to me at [co
 6. `Xcode`
 
 ## Tools
-1. R Studio
-2. VS Code / Jupyter Notebook / Markdown
-3. GitHub
-4. Tableau
-5. PowerBI
-6. Microsoft Offices (expert in Excel math / stat / vis and etc. tools)
-7. Actively Learning SAS
+1. JetBrain PyCharm
+2. R Studio
+3. VS Code / Jupyter Notebook / Markdown
+4. GitHub
+5. Tableau
+6. PowerBI
+7. Microsoft Offices (expert in Excel math / stat / vis and etc. tools)
+8. Actively Learning SAS
 
 ## Thank you for viewing my Profile & Repositories
