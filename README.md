@@ -1,4 +1,4 @@
-# Welcome! ~~~
+# Hello There! Nice to meet you here
 - Hi I am Nathaniel, ENTJ, a passionate Business, Production, Data Analyst
 - I’m a full-time Business Analyst in career
 - I am actively learning more and more about Business and Data Analysis
