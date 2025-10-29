@@ -1,9 +1,11 @@
 # Welcome! ~~~
-- 👋 Hi I am Nathaniel, a passionate BA/BS/CS learner, who loved computer, data, and acctg
-- 👀 I’m a current Business Analyst in career
-- 🌱 I’m learning data science tech
-- 💞️ I want to learn more about coding!
-- 📫 Feel free to reach out if you want to collab on anything!
+- Hi I am Nathaniel, ENTJ, a passionate Business, Production, Data Analyst
+- I’m a full-time Business Analyst in career
+- I am actively learning more and more about Business and Data Analysis
+- Feel free to reach out if you want to collab on anything!
+Since I am working full-time right now, the project update speed will be slower.
+I will be mainly working on the company's data for most of the time.
+But I am still open for collaboration if you are interested in working with me!
 
 ![](https://komarev.com/ghpvc/?username=Jen-uis&style=Plastic&label=PROFILE+VIEWS&base=126)
 
